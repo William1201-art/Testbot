@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "discordworkattendance",
+  "private_key_id": "4fd13777a21b0649710b21f8b8275e979e3e3f87",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDdWhnzqXpmMVhq\nMDIMwoMbctOgm5QlxLFVck0R2FxPCBrfuXXesTzze2a3hRfV1JsiQRbc0HYH+VR6\ny5ydC9ie0jVuVx838lfDZ9ZHrePMebgR0webegilWM0SOvst0OcJDvlpm+JTqKjJ\n15yeRT++74ft+4X1AYN08HZOTyhnoY9EIre9tD85mY+Tr8nPjWJRFHhKeJ1gVWuZ\n8Gg7bt6CGft5h3zk/cQTk1TcUp9dMBAePiyr4xdhLe/rDjNtDCMWd00DdnjteOzu\n/yuNlVqqdIN5v8i9fLLTs3tNmzXwxaQMVQq/XvE+yaoszlOo1B9G1kPEhey9v59L\nrO3cqnxBAgMBAAECggEABFHg1ceF8v6dihz8rRESu/Nmu+itYHtRNqivZlzBmG1B\nEQKukTUGSn4rCAPZ7jti960rhA2xcABmrKrSmKIFjTvu/QNIQbBCFDcvkGCNZI0v\nkXF74YXlK0zrW6K5CjDcgWnAZlY7eYR+HspNbS1OzCwii/tvptNrvFmBBZA36qXM\nOPwawnlAw3t6dxIyg6mWjNJcQkoMohmTD0WFQtdIP7yt4G2+6dhUq3PkEBpRMLTv\nMh+VNA6TOEwt4zRfc3JG2MEElf6KT5F1yI6uizGZmR0iIx3L1y5DoAmnTZUMamsQ\n16q4UueRiTM3pyNCvhc2Jn8xSO6ECXQtnbyIrffxUQKBgQD2To+AJCIMjJHHYG7G\neTfnawc/VD17eD9nJ7fU44Ls2AVDpQhXQ4m4NXRF1CwNef6bNPRary+W3g/ijIsd\nVm9CEt3HjCZ1esSrjYKTuZk3beMD5bLUWJcQOXlGmRTjRPzqI4GfVO8plmZZvrr3\ndYpV7zixU3Jd/PjjWhimB+1tNQKBgQDmECFhHd817m7fgi7hvTGcCuX5yFVeUu2N\nyMXHgwvzdkE66TA3hsicBgpW46VpDQA82x8fHpJruK3td639Gt7fNN2BqSBQr8w0\nKsA5x4vkPp+owrNLEQKyWrjWLyZyzYOeveE7dBDRT8SenrsdeydPtJ6d02SgkrKB\nHWIogYyQXQKBgDNjFotMfpIRrcRj+RiNZ71vVfa/c4hUAR5baf4PbVxOgWKohsH2\nBECbXmPHLV2uaxEkjipxTEN0lunUGp4HT3UAjKa6Nbfi4i9MecaqPS4UTf2dKZ8l\n0HaBFy1EeNglp4KN39hHFxKdH0NwCH/iVPcyzqgoWb8ELUT5ohTZqI5VAoGARD8K\nt9V1rnjxeOoUYDCQc9qjyAoOkPGGuKWTThDozasJxKECBaa9AdOk44uaOOR7apIR\n1FhsVPou1h/HhCqhbJMxFlKGXIkZyWvZJAq2y9lr4VMIfr8oDqJs7FSGUk32unNX\nShyvFHhWOjuaBC/RRIqu9uCLnDqIK1b9FEkB2p0CgYEAsTw16FOriSVVf/8GkUvM\n1gOeRAHSF0fBPNFM40MTsSIbL34vYEabktPyKXDK5vJ1JHzdAuE20Wm+OMcNZd54\nDLvQbs6gJDp5YluhGRhB4JTYl/FYygP2yWiFr7b2Um0Ng77G7jONrm0cKwZdsC7V\nwf1F8GWYP9hu1xdE+Zcv5Os=\n-----END PRIVATE KEY-----\n",
+  "client_email": "discord-bot-service@discordworkattendance.iam.gserviceaccount.com",
+  "client_id": "105440796053544664137",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/discord-bot-service%40discordworkattendance.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
